@@ -3,7 +3,7 @@
 
 Hi,
 
-I propose removing `label`, `url`, and `timeBucketId` from logs across **Twitter**, **Reddit**, and **YouTube** to prevent miners from copying each other’s strategies.
+I propose removing `label` and `url` from logs across **Twitter**, **Reddit**, and **YouTube** to prevent miners from copying each other’s strategies.
 
 Currently, logs expose:
 
