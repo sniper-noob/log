@@ -10,6 +10,7 @@ Currently, logs expose:
 - **label** 
 - **url**
 - **timeBucketId**
+- **bytes size**
 
 This reveals **what** was mined, **when**, and **from where** — making it easy for others to duplicate high-value buckets. I've personally seen my byte count drop sharply after validation, suggesting others copied my submitted labels and URLs after viewing them in logs.
 
