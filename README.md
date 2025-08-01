@@ -1,5 +1,5 @@
 
-# 🚫 Remove `label`, `url`, and `timeBucketId` from Logging (Twitter, Reddit, YouTube)
+# 🚫 Remove `label` and `url` from Logging (Twitter, Reddit, YouTube)
 
 Hi,
 
