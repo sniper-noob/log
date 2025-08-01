@@ -38,6 +38,6 @@ But if others see which `label`, `url`, `bytes size`, and `timeBucketId` perform
 
 ### ✅ Recommendation
 
-To protect originality and maintain fair competition, logs should **not include `label` and `url`** for Twitter, Reddit, or YouTube content.
+To protect originality and maintain fair competition, logs should **not include `label` and `url`** for Twitter, Reddit, and YouTube content.
 
 Thanks.
