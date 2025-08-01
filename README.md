@@ -37,6 +37,6 @@ But if others see which `label`, `url`, and `timeBucketId` performed well, they 
 
 ### ✅ Recommendation
 
-To protect originality and maintain fair competition, logs should **not include `label`, `url`, or `timeBucketId`** for Twitter, Reddit, or YouTube content.
+To protect originality and maintain fair competition, logs should **not include `label` and `url`** for Twitter, Reddit, or YouTube content.
 
 Thanks.
