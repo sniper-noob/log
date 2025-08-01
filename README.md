@@ -32,7 +32,7 @@ Suppose 3 miners submit data for the same bucket:
 
 As you can see, **just 1,000 more bytes** gives Miner A a significantly higher score — despite only contributing ~33% of total data.
 
-But if others see which `label`, `url`, and `timeBucketId` performed well, they can easily scrape the same or more and **overtake the original miner** in the next round.
+But if others see which `label`, `url`, `bytes size`, and `timeBucketId` performed well, they can easily scrape the same or more and **overtake the original miner** in the next round.
 
 ---
 
