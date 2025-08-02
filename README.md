@@ -58,7 +58,6 @@ The result: Miner A gains double the total score, while other miners are heavily
 ### 🔍 Summary
 - Miner A **doubles its total score** by duplicating effort across 6 nodes.
 - Miner B and C suffer ~67% score loss without changing their contribution.
-- This illustrates how self-replication distorts fairness in the scoring algorithm.
 
 
 ---
